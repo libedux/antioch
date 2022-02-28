@@ -1,16 +1,34 @@
-# antioch
+# Boilerplate Project
 
-A new Flutter project.
+Antioch is a boilerplate project created in flutter using Bloc/Cubit. Boilerplate supports both web and mobile.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Boilerplate contains the minimal implementation required to create a new library or project. The repository code is preloaded with some basic components like basic app architecture, constants and required dependencies to create a new project. By using boiler plate code as standard initializer, we can have same patterns in all the projects that will inherit it. This will also help in reducing setup & development time by allowing you to use same code pattern and avoid re-writing from scratch.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Boilerplate Features:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Auth (Signup / Login)
+* Splash
+* Local Storage
+* Login
+* Home
+* Routing
+* Dio
+* Cubit
+* Code Generation
+* Logging
+* Provider example (new)
+
+### Up-Coming Features:
+
+* Splash
+* Theme
+* Validation
+* User Notifications
+* Dependency Injection
+* Dark Theme Support (new)
+* Multilingual Support (new)
+
+
